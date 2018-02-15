@@ -1,0 +1,13 @@
+{
+    "autoload": {
+       "classmap": [
+            "src"
+        ]
+    },
+    "scripts": {
+        "phpunit": "./vendor/bin/phpunit"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.*"
+    }
+}
